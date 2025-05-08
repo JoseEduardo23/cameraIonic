@@ -1,0 +1,7 @@
+{
+  "name": "cameraProyect",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
